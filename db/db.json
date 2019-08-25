@@ -1,0 +1,141 @@
+{
+	"goods": [{
+		"title": "Sony PlayStation 4 Pro",
+		"price": 800,
+		"sale": false,
+		"img": "./img/SonyPSPro.jpg",
+		"category": "Game console"
+	}, {
+		"title": "Sony PlayStation 3 Super Slim",
+		"price": 600,
+		"sale": true,
+		"img": "./img/PS3.jpg",
+		"category": "Game console"
+	}, {
+		"title": "Xbox One X",
+		"price": 720,
+		"sale": false,
+		"img": "./img/XboxOne.jpg",
+		"category": "Game console"
+	}, {
+		"title": "Xbox One S",
+		"price": 640,
+		"sale": true,
+		"img": "./img/XboxOneS.jpg",
+		"category": "Game console"
+	}, {
+		"title": "Nintendo Switch",
+		"price": 700,
+		"sale": false,
+		"img": "./img/Nintendo.jpg",
+		"category": "Game console"
+	}, {
+		"title": "Sega Retro Genesis HD",
+		"price": 120,
+		"sale": true,
+		"img": "./img/Sega.jpg",
+		"category": "Game console"
+	}, {
+		"title": "Dendy Junior",
+		"price": 70,
+		"sale": true,
+		"img": "./img/Dendy.jpg",
+		"category": "Game console"
+	}, {
+		"title": "Sony PlayStation Classic",
+		"price": 80,
+		"sale": false,
+		"img": "./img/SPClassic.jpg",
+		"category": "Game console"
+	}, {
+		"title": "Keybord Logitech Wireless Keyboard K360",
+		"price": 62,
+		"sale": false,
+		"img": "./img/K360.jpg",
+		"category": "Peripherals"
+	}, {
+		"title": "Keybord Defender Element HB-195",
+		"price": 56,
+		"sale": true,
+		"img": "./img/HB195.jpg",
+		"category": "Peripherals"
+	}, {
+		"title": "Game Keybord Steelseries Apex M750- RU",
+		"price": 120,
+		"sale": true,
+		"img": "./img/M750.jpg",
+		"category": "Peripherals"
+	}, {
+		"title": "Mouse + Mouse pad A4Tech Bloody V7M+B-071",
+		"price": 84,
+		"sale": false,
+		"img": "./img/V7M.jpg",
+		"category": "Peripherals"
+	}, {
+		"title": "Mouse Trust Varo",
+		"price": 45,
+		"sale": true,
+		"img": "./img/Trust.jpg",
+		"category": "Peripherals"
+	}, {
+		"title": "Mouse Genius DX-120",
+		"price": 43,
+		"sale": false,
+		"img": "./img/DX120.jpg",
+		"category": "Peripherals"
+	}, {
+		"title": "Mouse pad Orico MPA9040",
+		"price": 12,
+		"sale": true,
+		"img": "./img/MPA9040.jpg",
+		"category": "Peripherals"
+	}, {
+		"title": "Mouse pad Trust GXT 760 Glide RGB",
+		"price": 22,
+		"sale": false,
+		"img": "./img/GXT760.jpg",
+		"category": "Peripherals"
+	}, {
+		"title": "Metro: Exodus",
+		"price": 14,
+		"sale": true,
+		"img": "./img/MetroE.jpg",
+		"category": "Games and software"
+	}, {
+		"title": "Darksiders III. Collector's Edition",
+		"price": 39,
+		"sale": false,
+		"img": "./img/DS3.jpg",
+		"category": "Games and software"
+	}, {
+		"title": "Mortal Kombat X",
+		"price": 76,
+		"sale": false,
+		"img": "./img/MKX.jpg",
+		"category": "Games and software"
+	}, {
+		"title": "Microsoft Windows 10 Home (32/64-bit)",
+		"price": 100,
+		"sale": false,
+		"img": "./img/W10.jpg",
+		"category": "Games and software"
+	}, {
+		"title": "ABBYY FotoTranslate",
+		"price": 85,
+		"sale": false,
+		"img": "./img/Abby.jpg",
+		"category": "Games and software"
+	}, {
+		"title": "Destiny (Xbox 360)",
+		"price": 52,
+		"sale": true,
+		"img": "./img/Destiny.jpg",
+		"category": "Games and software"
+	}, {
+		"title": "Game Onrush (PS4 Sony)",
+		"price": 17,
+		"sale": true,
+		"img": "./img/Onrush.jpg",
+		"category": "Games and software"
+	}]
+}
